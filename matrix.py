@@ -1,0 +1,1 @@
+M = [[(10*x+y) for y in range(1, 11)] for x in range(10)]
